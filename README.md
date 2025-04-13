@@ -21,3 +21,5 @@ O CSS é utilizado para estilizar a página, tornando-a visualmente atraente e f
 ## Lógica JavaScript
 
 A lógica de conversão é implementada em JavaScript. Ao clicar em um dos botões de conversão, o valor inserido é capturado e convertido com base nas taxas de câmbio definidas. As taxas de câmbio podem ser atualizadas conforme necessário.
+
+<h3 italic>Fique avontade para visitar o Projeto. <a href="https://convert-money-marcelonaja.netlify.app/" /> Ir para o Site </h3>
